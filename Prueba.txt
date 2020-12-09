@@ -1,4 +1,10 @@
 ####
+<<<<<<< HEAD
+CREANDO CONFLICTO
+####
+PRUEBA 2
+=======
 BORRANDO CONFLICTO
 ####
 CHIN HUECO
+>>>>>>> 6c19c69d506ffbd13a694e3c016bafc0b01630a3
