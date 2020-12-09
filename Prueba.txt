@@ -1,1 +1,2 @@
 prueba desde repo clonado de LinkSon-PC
+Creando conflicto en repo comunitario
