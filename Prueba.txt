@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-prueba desde repo clonado de LinkSon-PC
-Creando conflicto en repo comunitario
-=======
-A B C
-D
-F
-G
-H
-I
-prueba desde repo clonado de LinkSon-PC
-VIENDO SI DA CONFLICTO 
->>>>>>> ddec43ccca55a0ba496f8bd691ce62b48afa4f5d
+####
+BORRANDO CONFLICTO
+####
